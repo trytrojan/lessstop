@@ -1,0 +1,14 @@
+{
+    "name": "LESSSTOP",
+    "description": "Deploy lessstop on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        }
+    },
+    "website": "https://google.com/",
+    "repository": "https://github.com/trytrojan/lessstop",
+    "stack": "container"
+}
