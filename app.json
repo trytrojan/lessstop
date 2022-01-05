@@ -1,7 +1,7 @@
 {
     "name": "LESSSTOP",
     "description": "Deploy lessstop on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["LESSSTOP"],
     "env": {
         "UUID": {
             "description": "UUID",
